@@ -1,0 +1,61 @@
+about:
+  description: 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
+  license: GPL-3.0
+  homepage: https://1panel.pro
+  head: 3c0bd05
+  archived: false
+  latestVersion: v2.2.5
+  collectedAt: 2026-08-29T07:09:56Z
+timeline:
+  created: 2022-07-19
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-07
+popularity:
+  star: 36689
+  watcher: 187
+  fork: 3312
+  release: 125
+  contributor: 120
+  pullRequest: 383
+  issue: 6918
+language:
+  Go: 12175625
+  Vue: 4632980
+  Shell: 17114
+  Makefile: 1474
+  JavaScript: 1223
+  PHP: 511
+totalLine: 16828927
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 77
+    openPR: 14
+    closedIssue: 46
+    openIssue: 64
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 283
+    openPR: 14
+    closedIssue: 181
+    openIssue: 113
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 17
+    mergedPR: 699
+    openPR: 14
+    closedIssue: 484
+    openIssue: 157
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 28
+    mergedPR: 1489
+    openPR: 14
+    closedIssue: 1261
+    openIssue: 228
+    commit: 0
