@@ -5,18 +5,18 @@ about:
   head: ce74d96
   archived: false
   latestVersion: "v2.2.5"
-  collectedAt: 2026-09-08T02:04:36Z
+  collectedAt: 2026-09-08T04:33:09Z
 timeline:
   created: 2022-07-19
   lastCommit: 2026-09-08
   lastRelease: 2026-08-07
 popularity:
-  star: 36833
+  star: 36835
   watcher: 191
   fork: 3341
   release: 125
   contributor: 121
-  pullRequest: 5812
+  pullRequest: 5814
   issue: 6943
 language:
   Go: 12622501
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-09
     release: 0
     mergedPR: 80
-    openPR: 10
+    openPR: 12
     closedIssue: 46
     openIssue: 56
     commit: 74
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-10
     release: 2
     mergedPR: 180
-    openPR: 10
+    openPR: 12
     closedIssue: 115
     openIssue: 88
     commit: 174
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-10
     release: 5
     mergedPR: 273
-    openPR: 10
+    openPR: 12
     closedIssue: 186
     openIssue: 116
     commit: 260
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-12
     release: 14
     mergedPR: 676
-    openPR: 10
+    openPR: 12
     closedIssue: 443
     openIssue: 158
     commit: 672
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-13
     release: 28
     mergedPR: 1482
-    openPR: 10
+    openPR: 12
     closedIssue: 1232
     openIssue: 233
     commit: 1473
@@ -71,20 +71,20 @@ recent:
     since: 2024-09-18
     release: 56
     mergedPR: 3023
-    openPR: 10
+    openPR: 12
     closedIssue: 2974
     openIssue: 296
     commit: 2524
 total:
   release: 125
   mergedPR: 5426
-  openPR: 10
+  openPR: 12
   closedIssue: 6638
   openIssue: 305
   commit: 5507
 ---
 path: /home/runner/.x-repo/github.com/1Panel-dev/1Panel
-collectedAt: 2026-09-08T02:04:58Z
+collectedAt: 2026-09-08T04:33:27Z
 loc:
   Go:
     code: 205882
