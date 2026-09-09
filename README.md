@@ -7,7 +7,7 @@
 - **Latest release**: `v2.2.5` (2026-08-07)
 - **Last commit**: 2026-09-08
 - **License**: GPL-3.0
-- **Stars**: 36841 · **Forks**: 3341 · **Open issues**: 6945 · **Contributors**: 121
+- **Stars**: 36848 · **Forks**: 3341 · **Open issues**: 6947 · **Contributors**: 121
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/1Panel> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:40:31Z._
+_Last regenerated: 2026-09-09T04:37:17Z._
