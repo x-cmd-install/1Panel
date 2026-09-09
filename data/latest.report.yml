@@ -2,113 +2,113 @@ about:
   description: "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform."
   license: GPL-3.0
   homepage: https://1panel.pro
-  head: 6bc9dd9
+  head: a02c25e
   archived: false
   latestVersion: "v2.2.5"
   latestRelease: "v2.2.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:36:55Z
+  collectedAt: 2026-09-09T19:04:42Z
 timeline:
   created: 2022-07-19
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-07
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 36848
+  star: 36856
   watcher: 193
   fork: 3341
   release: 125
   contributor: 121
-  pullRequest: 5824
-  issue: 6947
+  pullRequest: 5840
+  issue: 6950
 language:
-  Go: 12649929
-  Vue: 4751273
+  Go: 12646556
+  Vue: 4756574
   Shell: 17114
   Makefile: 1474
   JavaScript: 1223
   PHP: 511
-totalBytes: 17421524
+totalBytes: 17423452
 recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 88
-    openPR: 7
-    closedIssue: 53
-    openIssue: 52
-    commit: 83
+    mergedPR: 96
+    openPR: 11
+    closedIssue: 57
+    openIssue: 51
+    commit: 91
   last60d:
     since: 2026-07-11
     release: 2
-    mergedPR: 189
-    openPR: 7
-    closedIssue: 122
-    openIssue: 86
-    commit: 183
+    mergedPR: 197
+    openPR: 11
+    closedIssue: 126
+    openIssue: 85
+    commit: 191
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 274
-    openPR: 7
-    closedIssue: 186
-    openIssue: 113
-    commit: 269
+    mergedPR: 282
+    openPR: 11
+    closedIssue: 190
+    openIssue: 112
+    commit: 277
   last180d:
     since: 2026-03-13
     release: 14
-    mergedPR: 684
-    openPR: 7
-    closedIssue: 447
-    openIssue: 157
-    commit: 681
+    mergedPR: 692
+    openPR: 11
+    closedIssue: 451
+    openIssue: 156
+    commit: 689
   last360d:
     since: 2025-09-14
     release: 28
-    mergedPR: 1491
-    openPR: 7
-    closedIssue: 1233
-    openIssue: 231
-    commit: 1482
+    mergedPR: 1499
+    openPR: 11
+    closedIssue: 1237
+    openIssue: 230
+    commit: 1490
   last720d:
     since: 2024-09-19
     release: 56
-    mergedPR: 3028
-    openPR: 7
-    closedIssue: 2975
-    openIssue: 295
-    commit: 2533
+    mergedPR: 3036
+    openPR: 11
+    closedIssue: 2979
+    openIssue: 294
+    commit: 2541
 total:
   release: 125
-  mergedPR: 5435
-  openPR: 7
-  closedIssue: 6643
-  openIssue: 304
-  commit: 5516
+  mergedPR: 5443
+  openPR: 11
+  closedIssue: 6647
+  openIssue: 303
+  commit: 5524
 ---
 path: /home/runner/.x-repo/github.com/1Panel-dev/1Panel
-collectedAt: 2026-09-09T04:37:13Z
+collectedAt: 2026-09-09T19:05:05Z
 loc:
   Go:
-    code: 205997
-    comments: 7484
-    blanks: 14689
-    files: 816
+    code: 206137
+    comments: 7489
+    blanks: 14701
+    files: 819
   TypeScript:
-    code: 104607
-    comments: 101
-    blanks: 2070
+    code: 104533
+    comments: 103
+    blanks: 2066
     files: 196
   Json:
-    code: 75308
+    code: 75363
     comments: 0
     blanks: 6
     files: 11
   Vue:
-    code: 19406
+    code: 19411
     comments: 5
-    blanks: 1026
+    blanks: 1028
     files: 574
   Yaml:
     code: 13324
@@ -166,10 +166,10 @@ loc:
     blanks: 489
     files: 21
 total:
-  code: 526996
-  comments: 9946
-  blanks: 27669
-  files: 1748
+  code: 527238
+  comments: 9953
+  blanks: 27680
+  files: 1751
 ---
 
 ---
