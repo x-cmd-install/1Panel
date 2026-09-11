@@ -12,6 +12,18 @@
 x install 1Panel
 ```
 
+## Code insight
+
+Total: **421,361** lines of code across **1632** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 205,443 | 7,482 | 14,635 | 822 |
+| TypeScript | 104,387 | 103 | 2,062 | 196 |
+| Json | 75,287 | 0 | 6 | 11 |
+| Vue | 19,354 | 5 | 1,024 | 573 |
+| Yaml | 13,396 | 786 | 767 | 30 |
+
 ## Source
 
 - **Upstream**: <https://github.com/1Panel-dev/1Panel>
@@ -35,21 +47,12 @@ x install 1Panel
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 97 | 12 | 54 | 49 | 95 |
-| 90d | 2026-06-12 | 4 | 281 | 12 | 190 | 113 | 281 |
-| 360d | 2025-09-15 | 28 | 1497 | 12 | 1233 | 232 | 1494 |
-
-## Code size
-
-Total: **421,361** lines of code across **1632** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 205,443 | 7,482 | 14,635 | 822 |
-| TypeScript | 104,387 | 103 | 2,062 | 196 |
-| Json | 75,287 | 0 | 6 | 11 |
-| Vue | 19,354 | 5 | 1,024 | 573 |
-| Yaml | 13,396 | 786 | 767 | 30 |
+| 30d | 2026-08-12 | 0 | 97 | 12 | 53 | 47 | 95 |
+| last60d | 2026-07-13 | 2 | 196 | 12 | 123 | 86 | 195 |
+| 90d | 2026-06-13 | 4 | 281 | 12 | 188 | 113 | 281 |
+| last180d | 2026-03-15 | 14 | 696 | 12 | 448 | 158 | 693 |
+| 360d | 2025-09-16 | 27 | 1492 | 12 | 1231 | 232 | 1494 |
+| last720d | 2024-09-21 | 56 | 3039 | 12 | 2978 | 296 | 2543 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for 1Panel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:29:13Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:40Z._
