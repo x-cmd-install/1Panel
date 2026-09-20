@@ -4,7 +4,7 @@
 
 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 
-![1Panel](https://repo.x-cmd.io/1Panel.svg)
+[![x-cmd/install — 1Panel Code Quality Monitoring Repo Card](https://repo.x-cmd.io/1Panel.svg)](https://x-cmd.com/install/1Panel)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install 1Panel
 
 ## Code insight
 
-Total: **424,404** lines of code across **1631** files in the top 5 languages.
+Total: **424,412** lines of code across **1631** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 207,574 | 7,505 | 14,716 | 819 |
-| TypeScript | 104,684 | 80 | 2,066 | 197 |
+| TypeScript | 104,692 | 80 | 2,066 | 197 |
 | Json | 75,705 | 0 | 6 | 11 |
 | Vue | 19,407 | 4 | 1,027 | 574 |
 | Yaml | 13,540 | 798 | 779 | 30 |
@@ -37,22 +37,22 @@ Total: **424,404** lines of code across **1631** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,962 · **Forks**: 3,355 · **Open issues**: 6,998 · **Contributors**: 122
+- **Stars**: 36,982 · **Forks**: 3,355 · **Open issues**: 7,008 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 5472 · **Open PRs**: 12 · **Closed issues**: 6699 · **Open issues**: 299 · **Commits**: 5553
+- **Releases**: 127 · **Merged PRs**: 5473 · **Open PRs**: 12 · **Closed issues**: 6699 · **Open issues**: 309 · **Commits**: 5554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 111 | 12 | 67 | 47 | 104 |
-| last60d | 2026-07-20 | 4 | 199 | 12 | 155 | 81 | 195 |
-| 90d | 2026-06-20 | 5 | 290 | 12 | 213 | 109 | 290 |
-| last180d | 2026-03-22 | 15 | 675 | 12 | 463 | 153 | 673 |
-| 360d | 2025-09-23 | 29 | 1482 | 12 | 1250 | 227 | 1482 |
-| last720d | 2024-09-28 | 56 | 3044 | 12 | 2991 | 291 | 2560 |
+| 30d | 2026-08-21 | 2 | 102 | 12 | 54 | 53 | 105 |
+| last60d | 2026-07-22 | 4 | 192 | 12 | 149 | 90 | 196 |
+| 90d | 2026-06-22 | 5 | 289 | 12 | 210 | 119 | 291 |
+| last180d | 2026-03-24 | 15 | 654 | 12 | 450 | 163 | 674 |
+| 360d | 2025-09-25 | 29 | 1467 | 12 | 1238 | 237 | 1483 |
+| last720d | 2024-09-30 | 55 | 3039 | 12 | 2980 | 301 | 2558 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for 1Panel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:55:42Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:01:05Z._
