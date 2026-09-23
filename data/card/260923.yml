@@ -1,0 +1,92 @@
+about:
+  description: "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform."
+  license: GPL-3.0
+  homepage: https://1panel.pro
+  head: 4861eb6
+  archived: false
+  latestVersion: "v2.3.1"
+  latestRelease: "v2.3.1"
+  latestPrerelease: ""
+  collectedAt: 2026-09-23T04:58:05Z
+timeline:
+  created: 2022-07-19
+  lastCommit: 2026-09-22
+  lastVersion: 2026-09-18
+  lastRelease: 2026-09-18
+  lastPrerelease: 
+popularity:
+  star: 37003
+  watcher: 194
+  fork: 3361
+  release: 127
+  contributor: 122
+  pullRequest: 5892
+  issue: 7027
+language:
+  Go: 12833738
+  Vue: 4790626
+  Shell: 17114
+  Makefile: 1474
+  JavaScript: 1223
+  PHP: 511
+totalBytes: 17644686
+recent:
+  last30d:
+    since: 2026-08-24
+    release: 2
+    mergedPR: 116
+    openPR: 13
+    closedIssue: 54
+    openIssue: 65
+    commit: 107
+  last60d:
+    since: 2026-07-25
+    release: 4
+    mergedPR: 201
+    openPR: 13
+    closedIssue: 146
+    openIssue: 101
+    commit: 191
+  last90d:
+    since: 2026-06-25
+    release: 5
+    mergedPR: 301
+    openPR: 13
+    closedIssue: 208
+    openIssue: 128
+    commit: 293
+  last180d:
+    since: 2026-03-27
+    release: 13
+    mergedPR: 653
+    openPR: 13
+    closedIssue: 451
+    openIssue: 173
+    commit: 655
+  last360d:
+    since: 2025-09-28
+    release: 29
+    mergedPR: 1469
+    openPR: 13
+    closedIssue: 1221
+    openIssue: 250
+    commit: 1469
+  last720d:
+    since: 2024-10-03
+    release: 55
+    mergedPR: 3057
+    openPR: 13
+    closedIssue: 2981
+    openIssue: 314
+    commit: 2576
+total:
+  release: 127
+  mergedPR: 5491
+  openPR: 13
+  closedIssue: 6705
+  openIssue: 322
+  commit: 5572
+---
+---
+
+---
