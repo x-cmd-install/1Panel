@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/1Panel-dev/1Panel/releases/391194781",
-  "assets_url": "https://api.github.com/repos/1Panel-dev/1Panel/releases/391194781/assets",
-  "upload_url": "https://uploads.github.com/repos/1Panel-dev/1Panel/releases/391194781/assets{?name,label}",
-  "html_url": "https://github.com/1Panel-dev/1Panel/releases/tag/v2.3.1",
-  "id": 391194781,
+  "url": "https://api.github.com/repos/1Panel-dev/1Panel/releases/395299544",
+  "assets_url": "https://api.github.com/repos/1Panel-dev/1Panel/releases/395299544/assets",
+  "upload_url": "https://uploads.github.com/repos/1Panel-dev/1Panel/releases/395299544/assets{?name,label}",
+  "html_url": "https://github.com/1Panel-dev/1Panel/releases/tag/v2.3.2",
+  "id": 395299544,
   "author": {
     "login": "wanghe-fit2cloud",
     "id": 46734380,
@@ -25,26 +25,26 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOHrwnHM4XUSid",
-  "tag_name": "v2.3.1",
+  "node_id": "RE_kwDOHrwnHM4Xj8rY",
+  "tag_name": "v2.3.2",
   "target_commitish": "dev-v2",
-  "name": "v2.3.1",
+  "name": "v2.3.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-17T07:46:06Z",
-  "updated_at": "2026-09-18T03:26:40Z",
-  "published_at": "2026-09-18T03:26:40Z",
+  "created_at": "2026-09-24T02:18:01Z",
+  "updated_at": "2026-09-24T03:42:39Z",
+  "published_at": "2026-09-24T03:42:39Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/1Panel-dev/1Panel/tarball/v2.3.1",
-  "zipball_url": "https://api.github.com/repos/1Panel-dev/1Panel/zipball/v2.3.1",
-  "body": "## ✨ New Features / 新增功能\r\n\r\n* Agents: Added support for setting a maximum reply length for models in OpenClaw / OpenClaw 支持设置模型回复长度上限 by @zhengkunwang223 in https://github.com/1Panel-dev/1Panel/pull/13818\r\n* Models: Added a Qwen3.8-Flash-Next model deployment template for dual RTX Pro 5000 GPUs / 新增适配双 RTX Pro 5000 显卡的 Qwen3.8-Flash-Next 模型部署模板 by @zhengkunwang223\r\n* File Browser: Added support for using the filename provided by the server in remote downloads and improved error handling / 远程下载支持使用服务器提供的文件名并优化异常处理 by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13808\r\n* Toolbox: Added panel main service diagnostics and performance data collection to process management / 进程管理新增面板主服务诊断与性能数据采集功能 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13852\r\n\r\n## ⚙️ Enhancements / 功能优化\r\n\r\n* Containers: Improved container network forwarding checks and error messages / 完善容器网络转发检查与异常提示 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13820\r\n* Containers: Improved the theme display and text layout of container details / 优化容器详情的主题显示与文字排版 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13849\r\n* Firewall: Optimized the firewall startup, restart, and rule synchronization flows / 优化防火墙启动、重启及规则同步流程 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13809\r\n* Firewall: Optimized port whitelist management, rule recovery, and protection logic / 优化端口白名单管理及规则恢复与保护逻辑 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13826\r\n* Firewall: Improved loading and deletion speed for large rule sets and added support for queued background deletion / 提升大量规则的加载与删除速度并支持后台排队删除 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13829\r\n\r\n## 🛠️ Bug Fixes / 问题修复\r\n\r\n* Websites: Fixed the issue where related settings could not be saved after enabling Brotli compression in OpenResty / 修复了 OpenResty 启用 Brotli 压缩后无法保存相关设置的问题 by @zhengkunwang223 in https://github.com/1Panel-dev/1Panel/pull/13822\r\n* Terminal: Fixed interference between the terminal shortcut and terminal page sessions / 修复了终端快捷入口与终端页面会话相互干扰的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13810\r\n* Virtual Machine Management: Fixed forced deletion failures when virtual machine names contain special characters / 修复了虚拟机名称包含特殊字符时无法强制删除的问题 by @ssongliu\r\n* Panel Settings: Fixed excessive CPU usage when accessing the panel with a large authorized IP range / 修复了授权 IP 范围较大时访问面板导致 CPU 占用过高的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13851\r\n",
+  "tarball_url": "https://api.github.com/repos/1Panel-dev/1Panel/tarball/v2.3.2",
+  "zipball_url": "https://api.github.com/repos/1Panel-dev/1Panel/zipball/v2.3.2",
+  "body": "[English](#en-v2.3.2) | [中文](#cn-v2.3.2)\r\n\r\n<h3 id=\"en-v2.3.2\">New Features</h3>\r\n\r\n* Panel Settings: Added support for creating multiple API keys by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13872\r\n* Virtual Machine Management: Added support for mounting multiple CD-ROM ISO images by @ssongliu\r\n\r\n### Enhancements\r\n\r\n* Overview: Improved logging for disk command failures by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13889\r\n* File Browser: Improved task messages for file copy, move, compress, and decompress by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13885\r\n* Firewall: Optimized firewall state reads and batch verification logic by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13881\r\n* System: Removed the minimum upgrade backup copies limit by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13907\r\n\r\n### Bug Fixes\r\n\r\n* Models: Fixed the Ollama page failing to open properly in some scenarios by @zhengkunwang223 in https://github.com/1Panel-dev/1Panel/pull/13855\r\n* Models: Fixed vLLM uninstall failures in some scenarios by @zhengkunwang223\r\n* App Store: Fixed application upgrade failures in some scenarios by @zhengkunwang223 in https://github.com/1Panel-dev/1Panel/pull/13888\r\n* Websites: Fixed incorrect priority between HTTP-to-HTTPS redirects and website redirects by @A-Words in https://github.com/1Panel-dev/1Panel/pull/13847\r\n* Certificates: Fixed auto-renewing certificates still triggering expiry alerts by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13895\r\n* File Browser: Fixed file rename failures in some scenarios by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13891\r\n* Firewall: Fixed IPv6 forwarding being disrupted by RA by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13882\r\n* Firewall: Fixed incomplete batch operation and task logs by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13886\r\n* Firewall: Fixed incorrect reporting of port allowances and whitelist synchronization by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13892\r\n* Firewall: Fixed rule synchronization failures in some firewalld scenarios by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13896\r\n* Log Audit: Fixed SSH login logs not being displayed in the server timezone by @wanghe-fit2cloud in https://github.com/1Panel-dev/1Panel/pull/13869\r\n* Virtual Machine Management: Fixed abnormal display of some virtual machine states and the inability to wake sleeping virtual machines by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13890\r\n* Virtual Machine Management: Fixed incorrect CPU topology settings for virtual machines by @ssongliu\r\n\r\n<h3 id=\"cn-v2.3.2\">新增功能</h3>\r\n\r\n* 【面板设置】支持创建多个 API Key by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13872\r\n* 【虚拟机管理】支持挂载多个 CD-ROM ISO 镜像 by @ssongliu\r\n\r\n### 功能优化\r\n\r\n* 【概览】完善磁盘命令执行失败时的日志记录 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13889\r\n* 【文件】完善文件复制、移动、压缩和解压任务的消息提示 by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13885\r\n* 【防火墙】优化防火墙状态读取及批量校验逻辑 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13881\r\n* 【系统】移除最低升级备份副本数限制 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13907\r\n\r\n### 问题修复\r\n\r\n* 【模型】修复了部分场景下 Ollama 页面无法正常打开的问题 by @zhengkunwang223 in https://github.com/1Panel-dev/1Panel/pull/13855\r\n* 【模型】修复了部分场景下 vLLM 卸载失败的问题 by @zhengkunwang223\r\n* 【应用商店】修复了部分场景下应用升级失败的问题 by @zhengkunwang223 in https://github.com/1Panel-dev/1Panel/pull/13888\r\n* 【网站】修复了 HTTP 跳转 HTTPS 与网站重定向优先级异常的问题 by @A-Words in https://github.com/1Panel-dev/1Panel/pull/13847\r\n* 【证书】修复了自动续签证书仍触发到期告警的问题 by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13895\r\n* 【文件】修复了文件重命名操作在部分场景下异常的问题 by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/13891\r\n* 【防火墙】修复了 IPv6 转发受 RA 干扰的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13882\r\n* 【防火墙】修复了批量操作与任务日志显示不完整的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13886\r\n* 【防火墙】修复了端口放行与白名单同步上报异常的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13892\r\n* 【防火墙】修复了 firewalld 环境下部分场景规则同步异常的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13896\r\n* 【日志审计】修复了 SSH 登录日志未按服务器时区显示的问题 by @wanghe-fit2cloud in https://github.com/1Panel-dev/1Panel/pull/13869\r\n* 【虚拟机管理】修复了部分虚拟机状态显示异常及休眠虚拟机无法唤醒的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/13890\r\n* 【虚拟机管理】修复了虚拟机 CPU 拓扑设置不正确的问题 by @ssongliu\r\n",
   "reactions": {
-    "url": "https://api.github.com/repos/1Panel-dev/1Panel/releases/391194781/reactions",
-    "total_count": 13,
-    "+1": 3,
+    "url": "https://api.github.com/repos/1Panel-dev/1Panel/releases/395299544/reactions",
+    "total_count": 12,
+    "+1": 2,
     "-1": 0,
     "laugh": 2,
     "hooray": 2,
@@ -53,5 +53,5 @@
     "rocket": 2,
     "eyes": 2
   },
-  "mentions_count": 3
+  "mentions_count": 5
 }
