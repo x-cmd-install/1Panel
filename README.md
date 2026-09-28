@@ -37,22 +37,22 @@ Total: **427,660** lines of code across **1653** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,032 · **Forks**: 3,360 · **Open issues**: 7,045 · **Contributors**: 122
+- **Stars**: 37,044 · **Forks**: 3,361 · **Open issues**: 7,053 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 5496 · **Open PRs**: 13 · **Closed issues**: 6720 · **Open issues**: 325 · **Commits**: 5577
+- **Releases**: 128 · **Merged PRs**: 5496 · **Open PRs**: 13 · **Closed issues**: 6720 · **Open issues**: 333 · **Commits**: 5577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 107 | 13 | 64 | 66 | 112 |
-| last60d | 2026-07-29 | 4 | 187 | 13 | 144 | 100 | 196 |
-| 90d | 2026-06-29 | 6 | 296 | 13 | 213 | 126 | 298 |
-| last180d | 2026-03-31 | 14 | 648 | 13 | 454 | 176 | 660 |
-| 360d | 2025-10-02 | 30 | 1465 | 13 | 1216 | 252 | 1474 |
-| last720d | 2024-10-07 | 56 | 3062 | 13 | 2993 | 317 | 2581 |
+| 30d | 2026-08-29 | 3 | 107 | 13 | 64 | 74 | 86 |
+| last60d | 2026-07-30 | 4 | 187 | 13 | 142 | 106 | 168 |
+| 90d | 2026-06-30 | 6 | 289 | 13 | 211 | 133 | 264 |
+| last180d | 2026-04-01 | 14 | 640 | 13 | 448 | 181 | 634 |
+| 360d | 2025-10-03 | 30 | 1464 | 13 | 1214 | 260 | 1473 |
+| last720d | 2024-10-08 | 56 | 3056 | 13 | 2989 | 325 | 2581 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for 1Panel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:17:09Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:28:01Z._
