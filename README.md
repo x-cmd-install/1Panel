@@ -14,11 +14,11 @@ x install 1Panel
 
 ## Code insight
 
-Total: **431,098** lines of code across **1671** files in the top 5 languages.
+Total: **431,107** lines of code across **1671** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 210,808 | 7,529 | 14,618 | 840 |
+| Go | 210,817 | 7,530 | 14,618 | 840 |
 | TypeScript | 108,551 | 84 | 2,118 | 209 |
 | Json | 75,018 | 0 | 6 | 11 |
 | Vue | 19,217 | 4 | 1,031 | 581 |
@@ -33,26 +33,26 @@ Total: **431,098** lines of code across **1671** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.2` (2026-09-24)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 37,201 · **Forks**: 3,383 · **Open issues**: 7,138 · **Contributors**: 124
+- **Stars**: 37,211 · **Forks**: 3,386 · **Open issues**: 7,144 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 5557 · **Open PRs**: 11 · **Closed issues**: 6783 · **Open issues**: 355 · **Commits**: 5638
+- **Releases**: 128 · **Merged PRs**: 5558 · **Open PRs**: 14 · **Closed issues**: 6785 · **Open issues**: 359 · **Commits**: 5639
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 83 | 11 | 48 | 83 | 61 |
-| last60d | 2026-08-20 | 3 | 189 | 11 | 124 | 117 | 180 |
-| 90d | 2026-07-21 | 5 | 280 | 11 | 222 | 148 | 268 |
-| last180d | 2026-04-22 | 13 | 606 | 11 | 443 | 192 | 598 |
-| 360d | 2025-10-24 | 29 | 1442 | 11 | 1196 | 274 | 1425 |
-| last720d | 2024-10-29 | 54 | 3042 | 11 | 2931 | 345 | 2621 |
+| 30d | 2026-09-20 | 1 | 80 | 14 | 45 | 83 | 62 |
+| last60d | 2026-08-21 | 3 | 187 | 14 | 120 | 120 | 181 |
+| 90d | 2026-07-22 | 5 | 277 | 14 | 220 | 152 | 269 |
+| last180d | 2026-04-23 | 13 | 602 | 14 | 442 | 196 | 599 |
+| 360d | 2025-10-25 | 29 | 1443 | 14 | 1192 | 277 | 1426 |
+| last720d | 2024-10-30 | 54 | 3036 | 14 | 2924 | 349 | 2621 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for 1Panel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:37:14Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:44:36Z._
