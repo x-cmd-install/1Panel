@@ -32,27 +32,27 @@ Total: **434,565** lines of code across **1683** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.4.0` (2026-10-20)
+- **Latest**: `v2.4.1` (2026-10-22)
 - **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 37,229 · **Forks**: 3,386 · **Open issues**: 7,157 · **Contributors**: 126
+- **Stars**: 37,243 · **Forks**: 3,388 · **Open issues**: 7,165 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 129 · **Merged PRs**: 5569 · **Open PRs**: 13 · **Closed issues**: 6820 · **Open issues**: 337 · **Commits**: 5651
+- **Releases**: 130 · **Merged PRs**: 5570 · **Open PRs**: 16 · **Closed issues**: 6832 · **Open issues**: 333 · **Commits**: 5652
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 76 | 13 | 70 | 63 | 74 |
-| last60d | 2026-08-23 | 4 | 198 | 13 | 149 | 99 | 193 |
-| 90d | 2026-07-24 | 6 | 279 | 13 | 248 | 130 | 281 |
-| last180d | 2026-04-25 | 12 | 610 | 13 | 469 | 174 | 611 |
-| 360d | 2025-10-27 | 30 | 1443 | 13 | 1220 | 254 | 1438 |
-| last720d | 2024-11-01 | 55 | 3043 | 13 | 2945 | 326 | 2628 |
+| 30d | 2026-09-23 | 3 | 76 | 16 | 68 | 61 | 75 |
+| last60d | 2026-08-24 | 5 | 195 | 16 | 150 | 104 | 194 |
+| 90d | 2026-07-25 | 7 | 280 | 16 | 248 | 134 | 282 |
+| last180d | 2026-04-26 | 13 | 610 | 16 | 473 | 175 | 612 |
+| 360d | 2025-10-28 | 31 | 1435 | 16 | 1224 | 251 | 1439 |
+| last720d | 2024-11-02 | 56 | 3044 | 16 | 2952 | 322 | 2629 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for 1Panel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:37:37Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:44:46Z._
