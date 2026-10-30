@@ -1,0 +1,175 @@
+about:
+  description: "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform."
+  license: GPL-3.0
+  homepage: https://1panel.pro
+  head: 01feaa6
+  archived: false
+  latestVersion: "v2.4.1"
+  latestRelease: "v2.4.1"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:41:32Z
+timeline:
+  created: 2022-07-19
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-22
+  lastRelease: 2026-10-22
+  lastPrerelease: 
+popularity:
+  star: 37314
+  watcher: 192
+  fork: 3394
+  release: 130
+  contributor: 127
+  pullRequest: 6055
+  issue: 7208
+language:
+  Go: 13990412
+  Vue: 5078891
+  Shell: 17114
+  Makefile: 1474
+  JavaScript: 1223
+  PHP: 511
+totalBytes: 19089625
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 2
+    mergedPR: 96
+    openPR: 15
+    closedIssue: 61
+    openIssue: 77
+    commit: 97
+  last60d:
+    since: 2026-08-31
+    release: 5
+    mergedPR: 207
+    openPR: 15
+    closedIssue: 166
+    openIssue: 122
+    commit: 205
+  last90d:
+    since: 2026-08-01
+    release: 6
+    mergedPR: 287
+    openPR: 15
+    closedIssue: 247
+    openIssue: 149
+    commit: 287
+  last180d:
+    since: 2026-05-03
+    release: 13
+    mergedPR: 623
+    openPR: 15
+    closedIssue: 482
+    openIssue: 189
+    commit: 624
+  last360d:
+    since: 2025-11-04
+    release: 31
+    mergedPR: 1445
+    openPR: 15
+    closedIssue: 1223
+    openIssue: 264
+    commit: 1449
+  last720d:
+    since: 2024-11-09
+    release: 56
+    mergedPR: 3064
+    openPR: 15
+    closedIssue: 2949
+    openIssue: 334
+    commit: 2656
+total:
+  release: 130
+  mergedPR: 5601
+  openPR: 15
+  closedIssue: 6861
+  openIssue: 347
+  commit: 5683
+---
+path: /home/runner/.x-repo/github.com/1Panel-dev/1Panel
+collectedAt: 2026-10-30T05:42:00Z
+loc:
+  Go:
+    code: 225839
+    comments: 7773
+    blanks: 15382
+    files: 922
+  TypeScript:
+    code: 114627
+    comments: 101
+    blanks: 2224
+    files: 214
+  Json:
+    code: 75104
+    comments: 0
+    blanks: 6
+    files: 11
+  Vue:
+    code: 20339
+    comments: 5
+    blanks: 1052
+    files: 593
+  Yaml:
+    code: 14740
+    comments: 858
+    blanks: 936
+    files: 30
+  Sass:
+    code: 1795
+    comments: 3
+    blanks: 317
+    files: 12
+  Css:
+    code: 450
+    comments: 0
+    blanks: 144
+    files: 2
+  Sh:
+    code: 432
+    comments: 1
+    blanks: 42
+    files: 1
+  Bitbake:
+    code: 370
+    comments: 5
+    blanks: 9
+    files: 44
+  Svg:
+    code: 256
+    comments: 0
+    blanks: 140
+    files: 19
+  JavaScript:
+    code: 191
+    comments: 1
+    blanks: 13
+    files: 6
+  Html:
+    code: 171
+    comments: 0
+    blanks: 1
+    files: 15
+  Makefile:
+    code: 36
+    comments: 0
+    blanks: 13
+    files: 1
+  Php:
+    code: 18
+    comments: 3
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1469
+    blanks: 489
+    files: 21
+total:
+  code: 566130
+  comments: 10309
+  blanks: 28634
+  files: 1892
+---
+
+---
