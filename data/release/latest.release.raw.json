@@ -43,8 +43,8 @@
   "body": "[English](#en-v2.5.1) | [中文](#cn-v2.5.1)\r\n\r\n<h3 id=\"en-v2.5.1\">New Features</h3>\r\n\r\n* Models: Added support for connecting external vLLM instances and monitoring them in Overview by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14402\r\n\r\n### Enhancements\r\n\r\n* Models: Improved GPU group card layouts and topology-based ordering by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14404\r\n* Models: Improved the vLLM deployment list and made image pulling opt-in by @ssongliu\r\n\r\n### Bug Fixes\r\n\r\n* Models: Fixed issues with vLLM custom image synchronization and default image resets when switching versions by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14406\r\n* Models: Fixed incorrect version matching for GB10 dual-node vLLM deployments and upgrades by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14407\r\n* MCP Management: Fixed installation failures caused by a nonexistent default image version by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/14411、https://github.com/1Panel-dev/1Panel/pull/14416\r\n* Multi-Node: Fixed prerelease version handling during node upgrades by @ssongliu\r\n\r\n<h3 id=\"cn-v2.5.1\">新增功能</h3>\r\n\r\n* 【模型】支持接入外部 vLLM 实例并纳入概览监控 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14402\r\n\r\n### 功能优化\r\n\r\n* 【模型】优化 GPU 分组卡片布局并按拓扑排序 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14404\r\n* 【模型】优化 vLLM 部署列表展示并默认关闭镜像拉取选项 by @ssongliu\r\n\r\n### 问题修复\r\n\r\n* 【模型】修复了 vLLM 自定义镜像同步及版本切换时默认镜像重置异常的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14406\r\n* 【模型】修复了 GB10 双节点 vLLM 部署与升级时版本匹配异常的问题 by @ssongliu in https://github.com/1Panel-dev/1Panel/pull/14407\r\n* 【MCP 管理】修复了默认镜像版本不存在导致安装失败的问题 by @lan-yonghui in https://github.com/1Panel-dev/1Panel/pull/14411、https://github.com/1Panel-dev/1Panel/pull/14416\r\n* 【多机管理】修复了节点升级时预发布版本识别异常的问题 by @ssongliu\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/1Panel-dev/1Panel/releases/442682766/reactions",
-    "total_count": 6,
-    "+1": 1,
+    "total_count": 7,
+    "+1": 2,
     "-1": 0,
     "laugh": 1,
     "hooray": 1,
